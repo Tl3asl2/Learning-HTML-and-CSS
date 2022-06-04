@@ -1,1 +1,2 @@
-# Learning-HTML-and-CSS
+# This is My Website
+This project aim to apply HTML and CSS to built my website.
